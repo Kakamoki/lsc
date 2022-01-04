@@ -1,0 +1,14 @@
+{
+"token": "OTI3NTk0MTgzNDY2ODE5Njk0.YdMfZw.CIPMAwtmbUVaZRQK0UpN8V7TdZM",
+"prefix": "=",
+"greeting": {
+    "channel": "917430913300840508"
+},
+"leaving": {
+    "channel": "917511293357936701"
+},
+"ticket": {
+    "category": "917478658678095922",
+    "roles": ["917926727206989835", "917482427004387368", "917927191453511720"]
+}
+}
